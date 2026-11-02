@@ -37,7 +37,7 @@ Do NOT use the one included in this EFI.
 - BlueToolFixup.kext
   
 # What working
-- ✅ Wifi (Use [HeliPort App](https://github.com/OpenIntelWireless/heliport}))
+- ✅ Wifi (Use [HeliPort App](https://github.com/OpenIntelWireless/heliport))
 - ✅ Bluetooth (Like native)
 - ✅ USB
 - ✅ GPU
